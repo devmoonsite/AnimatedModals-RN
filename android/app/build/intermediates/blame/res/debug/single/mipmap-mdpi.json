@@ -2,5 +2,9 @@
     {
         "merged": "/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

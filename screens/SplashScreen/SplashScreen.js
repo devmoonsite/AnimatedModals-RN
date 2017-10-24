@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
 		flexDirection:'column',
 		justifyContent: 'space-between',
 		alignItems: 'center',
-		flexWrap:'wrap',
+		flexWrap:'nowrap',
 		backgroundColor: '#1a85ff',
 	},
 	title: {

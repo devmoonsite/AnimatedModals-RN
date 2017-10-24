@@ -8,7 +8,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_669d4105699722cdec65bdc488b380848e44e25a.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_669d4105699722cdec65bdc488b380848e44e25a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,16 +17,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_007506a7043f89430426a12be4af028848bd57f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_2d4db0e68cd42ff35971ab5ce4f0522658d8172b.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_007506a7043f89430426a12be4af028848bd57f3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,7 +26,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e39be5551faaad44e57bb1dfc19fde1d6e15fb2c.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e39be5551faaad44e57bb1dfc19fde1d6e15fb2c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,52 +35,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1e00a111f998ce316f558922c10aac7aa5fec736.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1e00a111f998ce316f558922c10aac7aa5fec736.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a22e5cb4fa787d94bf80c2b6dc75a12912e754c6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_a8c4c9c4f635456fd2a7486a477728a69dce51b0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_94068286a2215f4ae928b4731402882ebc2f6ddc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_fa1e18f485f3b66e6300f687e9fd121851c748e4.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_d1a1f3160e883e2178a939b26cc1a370c68f6b37.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_0f17ed4d84a431fc37f50b90ff340514716afa66.jar" />
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.3_14e003b61e8febc5afbc9bc98dc2490eb4e6a570.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,16 +62,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_18906f69c40390271f2d6947e8677b6dc73d86a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_3564ce86c80d6244a588c018dbe62907383c20d6.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_18906f69c40390271f2d6947e8677b6dc73d86a1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +71,88 @@
         optimize="true"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_99a44b2485bef7e7953c43ad3d1ca339830112e9.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_99a44b2485bef7e7953c43ad3d1ca339830112e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_c264c6013a79243eeea69d0b37afa51f72e3f0d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_afb3a2748bd4916778a3f91944a2878d1c82325e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_54b4ee5e6a0cc38f8927a4d2156af1afd42a04f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_41ed5410a6288a2744121ce4ead18db6aaf8c435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_e3268ddfd3d88f783d7e6777b4f82d1037547cdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d75c3919c3f8d3b79b016f9dcba782ece43fc236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_c603f51277b56e06a9c24522ee92c39f63c51154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_da527d97c34e9e74b5d2b53a959fbabce4b87675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c8f5580897c9a43efa06ecb6ec30b85f9b72d94a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +161,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0131612e50423aa3aa2d28184dcae4d321b7d02e.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0131612e50423aa3aa2d28184dcae4d321b7d02e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,61 +170,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5baed0e9e1486c4a5cc63cf1bc050a65bbb28980.jar" />
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5baed0e9e1486c4a5cc63cf1bc050a65bbb28980.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_85d9a54b87802624cbca02712b07a8225ead7cfd.jar" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e91c60526823a402bbf149d5ef312e6b0d67a6f4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/classes.jar"
+        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.3_f459234aad853160d2826449976ac67db81f99bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1ca18f1066fe3e97f80f794da717543dbfc26831.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6ae86562995abc47ec28b0c8d6c7042b3473bf79.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_74d3d03966083047701efca95b361d82c50d116e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_bd58496e55484eec6b16159c3ab1897e531d4233.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/himelbrand/ReactNativeProjects/AnimatedModals-RN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ec6cccbec66f11fdb744a284014d60f68f6009f3.jar" />
     </item>
 
 </items>
